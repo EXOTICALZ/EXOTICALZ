@@ -36,31 +36,7 @@ honestly, i don't even know what i'm doing half the time lol. i just write rando
 
 <img src="https://github-readme-stats.vercel.app/api?username=EXOTICALZ&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="my stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EXOTICALZ&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
-
-</div>
-
-### 🔥 streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=EXOTICALZ&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak" />
-
-</div>
-
-### 🏆 trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=EXOTICALZ&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies" />
-
-</div>
-
-### 📈 activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EXOTICALZ&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EXOTICALZ&theme=tokyonight" alt="most used langs" />
 
 </div>
 
