@@ -36,11 +36,3 @@ honestly, i don't even know what i'm doing half the time lol. i just write rando
 <img src="https://github-readme-stats.vercel.app/api?username=EXOTICALZ&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="my stats" />
 
 </div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=EXOTICALZ&color=blueviolet&style=flat-square&label=profile+views)
-
-</div>
