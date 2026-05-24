@@ -1,4 +1,4 @@
-# hey, i'm EXOTICALZ/Rikkiu
+# hey, i'm Rikkiu
 ### just a normal person learning how to code and failing.
 
 honestly, i don't even know what i'm doing half the time lol. i just write random things, break stuff, and hope it compiles(what is compiles?).
